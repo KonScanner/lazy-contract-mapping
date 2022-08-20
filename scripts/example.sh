@@ -1,0 +1,1 @@
+python3 -m scrapy crawl -a url=https://docs.radioshack.org/radioshack-defi/links/official-addresses contract_mappings -o contracts.json
